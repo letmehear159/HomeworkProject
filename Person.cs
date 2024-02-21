@@ -15,7 +15,7 @@ namespace HomeworkProject
         {
             name = "Truong";
             age = 20;
-            id = 2000;
+            id = 0000;
 
         }
     }
