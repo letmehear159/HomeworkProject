@@ -6,15 +6,7 @@ using System.Threading.Tasks;
 
 namespace HomeworkProject
 {
-    internal class Person
+    internal class Animal
     {
-        private string name;
-        private int age;
-        public Person()
-        {
-            name = "Truong";
-
-
-        }
     }
 }
