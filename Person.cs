@@ -10,6 +10,10 @@ namespace HomeworkProject
     {
         private string name;
         private int age;
-        public Person() { }
+        public Person()
+        {
+            name = "Truong";
+            age = 20;
+        }
     }
 }
