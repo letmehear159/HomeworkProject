@@ -13,7 +13,7 @@ namespace HomeworkProject
         public Person()
         {
             name = "Truong";
-
+            age = 20;
 
         }
     }
