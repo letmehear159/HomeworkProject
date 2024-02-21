@@ -8,5 +8,6 @@ namespace HomeworkProject
 {
     internal class Animal
     {
+
     }
 }
