@@ -1,0 +1,9 @@
+D:\Visual Studio\WindownForm\HomeworkProject\bin\Debug\HomeworkProject.exe.config
+D:\Visual Studio\WindownForm\HomeworkProject\bin\Debug\HomeworkProject.exe
+D:\Visual Studio\WindownForm\HomeworkProject\bin\Debug\HomeworkProject.pdb
+D:\Visual Studio\WindownForm\HomeworkProject\obj\Debug\HomeworkProject.csproj.AssemblyReference.cache
+D:\Visual Studio\WindownForm\HomeworkProject\obj\Debug\HomeworkProject.Properties.Resources.resources
+D:\Visual Studio\WindownForm\HomeworkProject\obj\Debug\HomeworkProject.csproj.GenerateResource.cache
+D:\Visual Studio\WindownForm\HomeworkProject\obj\Debug\HomeworkProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio\WindownForm\HomeworkProject\obj\Debug\HomeworkProject.exe
+D:\Visual Studio\WindownForm\HomeworkProject\obj\Debug\HomeworkProject.pdb
